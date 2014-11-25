@@ -27,7 +27,7 @@ override func viewDidLoad() {
 //    self.accessToken = userDefaults!.objectForKey("accessToken") as NSString
 //    println(self.accessToken)
 
-//        instanceOfCustomObject.someProperty = "Hello World"
+//          .someProperty = "Hello World"
 //        var accessToken : NSString? = NSString(instanceOfCustomObject.accessToken)
 //        println(accessToken)
 //    println("viewDidLoad")

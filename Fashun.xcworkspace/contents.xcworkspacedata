@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:Instagram.playground">
+   </FileRef>
+   <FileRef
       location = "group:Fashun.xcodeproj">
    </FileRef>
    <FileRef

@@ -17,6 +17,7 @@
 		2B8526F219F8CC89008FB162 /* FashunTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B8526F119F8CC89008FB162 /* FashunTests.swift */; };
 		2BD2CAAF1A0348D000E32352 /* Cell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BD2CAAE1A0348D000E32352 /* Cell.swift */; };
 		76DB73246775A8D8B237AD3D /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 56FA4EADF6F3E5584452EEE5 /* libPods.a */; };
+		BE0862CE1A24AEA300453FD3 /* Instagram.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE0862C91A24AD2C00453FD3 /* Instagram.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		2BF6E5E219F8CEF400B2E481 /* TemplateIcon2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = TemplateIcon2x.png; sourceTree = "<group>"; };
 		56FA4EADF6F3E5584452EEE5 /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		887DE0DA02E9994035CEF458 /* Pods.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.release.xcconfig; path = "Pods/Target Support Files/Pods/Pods.release.xcconfig"; sourceTree = "<group>"; };
+		BE0862C91A24AD2C00453FD3 /* Instagram.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Instagram.swift; sourceTree = "<group>"; };
 		FAEEFE1BBBB95A4758938F8A /* Pods.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.debug.xcconfig; path = "Pods/Target Support Files/Pods/Pods.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -115,6 +117,7 @@
 				2B6D354B19F8E104005BD71D /* Fashun.m */,
 				2B6D354D19F8E1C1005BD71D /* Fashun.h */,
 				2B6D354A19F8E103005BD71D /* Fashun-Bridging-Header.h */,
+				BE0862C91A24AD2C00453FD3 /* Instagram.swift */,
 			);
 			path = Fashun;
 			sourceTree = "<group>";
@@ -292,6 +295,7 @@
 				2B8526DE19F8CC89008FB162 /* ViewController.swift in Sources */,
 				2B8526DC19F8CC89008FB162 /* AppDelegate.swift in Sources */,
 				2B68BCF619FBA73D00986876 /* ColorWheel.swift in Sources */,
+				BE0862CE1A24AEA300453FD3 /* Instagram.swift in Sources */,
 				2BD2CAAF1A0348D000E32352 /* Cell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
